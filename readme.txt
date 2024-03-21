@@ -1,1 +1,1 @@
-program ini adalah pengimplementasian struct dan penyimpanan memori menggunakan txt
+This program is implementing structs and storing memory using TXT
